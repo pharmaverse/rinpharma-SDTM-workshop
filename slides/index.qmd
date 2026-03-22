@@ -79,7 +79,7 @@ Streamlined version focusing on core concepts and code generation demo.
 
 ::: {.column width="50%"}
 ### Code & Materials
-- [GitHub Repository](https://github.com/pharmaverse/rinpharma-SDTM-workshop)
+- [GitHub Repository](https://github.com/pharmaverse/sdtm.oak-workshop)
 - [YouTube Tutorial](https://www.youtube.com/watch?v=H0FdhG9_ttU)
 - [Blog Post](https://pharmaverse.github.io/blog/posts/2024-10-24_introducing.../introducing_sdtm.oak.html)
 :::

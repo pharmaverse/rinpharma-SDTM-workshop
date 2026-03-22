@@ -125,11 +125,11 @@ img_center_size <- 300
         -   Everything loaded (data, packages, specs) and ready to go!
 -   **Quick and Dirty**
     -   Grab files from
-        [Repo](https://github.com/pharmaverse/rinpharma-SDTM-workshop)
+        [Repo](https://github.com/pharmaverse/sdtm.oak-workshop)
     -   Files are in `exercises`, `datasets` and `specs` folders
 -   **Advanced:**
     -   Clone
-        [Repo](https://github.com/pharmaverse/rinpharma-2024-SDTM-workshop)
+        [Repo](https://github.com/pharmaverse/sdtm.oak-workshop)
         and set up yourself
 -   **Sit back and Relax**
     -   🏖️🏖️🍷🍷

@@ -2,11 +2,11 @@
 #'
 #' Label: R program to create CM Domain
 #' 
-#' Referece Documents: 
-#'     eCRF - ~/rinpharma-SDTM-workshop/specs/cm_cdash/CM_HTML.html
-#'            ~/rinpharma-SDTM-workshop/specs/cm_cdash/ CM_Excel.xlsx
-#'            
-#'    aCRF - ~/rinpharma-SDTM-workshop/specs/cm_cdash/CM_cdash_acrf.pdf
+#' Referece Documents:
+#'     eCRF - ~/sdtm.oak-workshop/specs/cm_cdash/CM_HTML.html
+#'            ~/sdtm.oak-workshop/specs/cm_cdash/ CM_Excel.xlsx
+#'
+#'    aCRF - ~/sdtm.oak-workshop/specs/cm_cdash/CM_cdash_acrf.pdf
 #'    
 #'    SDTM specification in the OAK foramt. Just for reference, not used in programs.
 #'    
