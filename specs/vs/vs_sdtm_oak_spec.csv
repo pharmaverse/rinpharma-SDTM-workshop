@@ -1,5 +1,5 @@
 raw_dataset,raw_dataset_label,raw_variable,raw_variable_label,raw_data_format,mapping_is_dataset,sdtm_annotation
-vs_raw,Vital Signs,,,TRUE,VS.VSCAT = 'VITAL SIGNS'
+vs_raw,Vital Signs,,,,TRUE,VS.VSCAT = 'VITAL SIGNS'
 vs_raw,Vital Signs,VTLD,Date,dd/mmm/yyyy,FALSE,VSDTC
 vs_raw,Vital Signs,IT.HEIGHT_VSORRES,Height,,FALSE,VSORRES when VSTESTCD = HEIGHT
 vs_raw,Vital Signs,IT.HEIGHT_VSORRES,Height,,FALSE,VSORRESU = 'IN'
